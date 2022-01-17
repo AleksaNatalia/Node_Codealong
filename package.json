@@ -1,0 +1,22 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "An app which helps a user be healthy by mixing up ingredients for a smoothie",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Smoothie",
+    "lil-booty",
+    "yummy",
+    "in-my-tummy"
+  ],
+  "author": "Aleks Magnusson",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "snowpack": "^3.8.8"
+  }
+}
