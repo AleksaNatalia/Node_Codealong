@@ -1,17 +1,19 @@
 {
   "name": "node_project_codealong",
   "version": "1.0.0",
+  "description": "An app which helps a user be healthy by mixing up ingredients for a smoothie",
   "main": "index.js",
   "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "Aleks Magnusson",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "lodash-es": "^4.17.21",
     "snowpack": "^3.8.8"
   },
-  "devDependencies": {
-    "@snowpack/plugin-webpack": "^3.0.0"
-  }
-}
+      "random-fruits-name": "^1.9.3"
+    }

@@ -22,6 +22,7 @@ h1 {
   );
   background-size: 300% 300%;
   -webkit-background-clip: text;
+  background-clip: none;
   color: transparent;
   animation: shiny 10s ease-in-out infinite alternate;
 }

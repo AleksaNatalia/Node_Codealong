@@ -11,6 +11,7 @@ Below you will find instructions on how to install this project!
 Before you proceed to install, you need to have the following tools installed:
 - [Node] (https://nodejs.org/en/)
 
+#
 ## How to install:
 
 In order to install you need to run:
@@ -27,3 +28,14 @@ Run:
 ```
 npm start
 ```
+
+## How to build a production bundle.
+To build the app for production, run:
+
+```
+npm run build
+```
+#
+Thanks in advance!
+
+*Aleks Magnusson*
